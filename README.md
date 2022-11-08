@@ -1,2 +1,4 @@
 # Dice-Game-Challenge
-HTML , CSS , JAVASCRIPT
+I hope you have fun playing it🙂. 
+Have a nice day!.
+
