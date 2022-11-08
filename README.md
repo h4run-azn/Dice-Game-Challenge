@@ -1,2 +1,2 @@
 # Dice-Game-Challenge
-HTML,CSS,JAVASCRIPT
+HTML , CSS , JAVASCRIPT
